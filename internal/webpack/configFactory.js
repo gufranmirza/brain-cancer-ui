@@ -44,8 +44,6 @@ export default function webpackConfigFactory(buildOptions) {
   const ifDevClient = ifElse(isDev && isClient);
   const ifProdClient = ifElse(isProd && isClient);
 
-  const localIdentName = ifDev('[name]_[local]_[hash:base64:5]', '[hash:base64:10]');
-
   log({
     level: 'info',
     title: 'Webpack',
