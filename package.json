@@ -133,7 +133,7 @@
     "source-map-support": "0.5.11",
     "style-loader": "0.18.2",
     "webpack": "3.6.0",
-    "webpack-bundle-analyzer": "3.1.0",
+    "webpack-bundle-analyzer": "3.2.0",
     "webpack-dev-middleware": "3.6.1",
     "webpack-hot-middleware": "2.19.1",
     "webpack-md5-hash": "0.0.5",
