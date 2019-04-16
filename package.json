@@ -83,7 +83,7 @@
     "react-helmet": "5.2.0",
     "react-hot-loader": "4.8.0",
     "react-router-dom": "4.4.0",
-    "serialize-javascript": "1.4.0",
+    "serialize-javascript": "1.7.0",
     "uuid": "3.1.0"
   },
   "devDependencies": {
