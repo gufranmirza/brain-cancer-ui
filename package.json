@@ -57,7 +57,7 @@
   },
   "homepage": "https://github.com/ctrlplusb/react-universally#readme",
   "dependencies": {
-    "antd": "3.15.2",
+    "antd": "3.17.0",
     "app-root-dir": "1.0.2",
     "chalk": "2.4.2",
     "colors": "1.1.2",
