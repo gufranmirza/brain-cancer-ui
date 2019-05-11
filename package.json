@@ -64,7 +64,7 @@
     "compression": "1.7.4",
     "cross-env": "5.0.5",
     "dotenv": "8.0.0",
-    "enzyme-adapter-react-16": "1.10.0",
+    "enzyme-adapter-react-16": "1.13.0",
     "eslint-config-prettier": "4.2.0",
     "express": "4.15.4",
     "helmet": "3.16.0",
