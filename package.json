@@ -129,7 +129,7 @@
     "react-test-renderer": "16.8.6",
     "regenerator-runtime": "0.13.2",
     "rimraf": "2.6.2",
-    "semver": "6.0.0",
+    "semver": "6.1.1",
     "source-map-support": "0.5.12",
     "style-loader": "0.18.2",
     "webpack": "3.6.0",
