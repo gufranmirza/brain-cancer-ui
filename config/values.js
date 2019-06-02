@@ -89,7 +89,9 @@ const values = {
       'fonts.gstatic.com',
       'at.alicdn.com'
     ],
-    imgSrc: [],
+    imgSrc: [
+      '127.0.0.1:8000'
+    ],
     mediaSrc: [],
     manifestSrc: [],
     objectSrc: [],
