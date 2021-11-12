@@ -6,7 +6,7 @@
 
 ### Backend
 Backend Server for this project can be found here https://github.com/gufranmirza/brain-cancer-api.
-First follow the steup to run the backend server 
+First follow the setup to run the backend server 
 
 ---
 
